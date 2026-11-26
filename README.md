@@ -1,0 +1,2 @@
+# Assaignment2-ICIT-
+CPU VS GPU VS TPU VS NPU
