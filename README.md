@@ -1,4 +1,4 @@
-# Assaignment2-ICIT-
+# Assignment2-ICIT-
 CPU VS GPU VS TPU VS NPU
 
 
