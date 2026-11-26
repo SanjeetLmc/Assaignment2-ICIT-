@@ -25,6 +25,8 @@ NPU
 
 The NPU, or neural processing unit, is the one you are most likely to be carrying around without knowing it. It is a small chip built into phones, newer laptops, and other devices, and its job is to run AI features without draining the battery. Things like face unlock, voice assistants, live translation, photo enhancement, and blurring your background on a video call often run on it.
 NPUs are designed mainly for inference, which means using an AI model that has already been trained rather than training a new one. They are not nearly as powerful as a big GPU, but they are very efficient. Because the work happens on the device itself, it is also faster for the user, and personal data like photos or voice recordings does not have to be sent to a server.
+
+
 Similarities and Differences
 
 Similarities
